@@ -41,7 +41,7 @@
       "type": "github",
       "ssh": "git@github.com:sum01/node-stratum-pool.git#vcash",
       "sshUrl": "git+ssh://git@github.com/sum01/node-stratum-pool.git#vcash",
-      "httpsUrl": "git+https://github.com/sum01/node-stratum-pool.git#vcash",
+      "httpsUrl": "git+https://github.com/MadCatMining/vcash-stratum-pool.git",
       "gitUrl": "git://github.com/sum01/node-stratum-pool.git#vcash",
       "shortcut": "github:sum01/node-stratum-pool#vcash",
       "directUrl": "https://raw.githubusercontent.com/sum01/node-stratum-pool/vcash/package.json"
