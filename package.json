@@ -69,12 +69,15 @@
     {
       "name": "TheSeven"
     }
+    {
+      "name": "MadCatMining"
+    }
   ],
   "dependencies": {
     "async": "^2.5.0",
     "base58-native": "^0.1.4",
     "bignum": "^0.12.5",
-    "multi-hashing": "git://github.com/krisklosterman/node-multi-hashing.git"
+    "multi-hashing": "git://github.com/MadCatMining/vcash-multi-hashing.git"
   },
   "description": "High performance Stratum poolserver in Node.js",
   "devDependencies": {},
@@ -91,7 +94,9 @@
     "poolserver",
     "bitcoin",
     "litecoin",
-    "scrypt"
+    "scrypt",
+    "vanilla",
+    "vcash"
   ],
   "license": "GPL-2.0",
   "main": "lib/index.js",
@@ -101,7 +106,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zone117x/node-stratum-pool.git"
+    "url": "git+https://github.com/MadCatMining/vcash-multi-hashing.git"
   },
   "version": "0.1.9"
 }
