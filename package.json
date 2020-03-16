@@ -77,7 +77,7 @@
     "async": "^2.5.0",
     "base58-native": "^0.1.4",
     "bignum": "^0.12.5",
-    "multi-hashing": "git://github.com/MadCatMining/vcash-multi-hashing.git"
+    "multi-hashing": "https://github.com/MadCatMining/vcash-multi-hashing.git"
   },
   "description": "High performance Stratum poolserver in Node.js",
   "devDependencies": {},
@@ -106,7 +106,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MadCatMining/vcash-multi-hashing.git"
+    "url": "https://github.com/MadCatMining/vcash-multi-hashing.git"
   },
   "version": "0.1.9"
 }
